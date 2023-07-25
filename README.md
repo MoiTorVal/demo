@@ -6,4 +6,4 @@ new text
 
 ## local Dev
 1. open index
-merge conflict
+merge 
